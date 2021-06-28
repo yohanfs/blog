@@ -38,7 +38,7 @@ aplikasi android atau iOS. Yang dibutuhkan oleh petugas di bandara CGK
 adalah barcode dari aplikasi eHAC. Barcode tersebut dapat ditunjukkan
 langsung dari HP. Sebagai tips, eHAC dapat juga diprint. Caranya
 adalah login eHAC melalui komputer dan bukalah [[https://inahac.kemkes.go.id][website eHAC]]. Kemudian
-download pdf hasil isian ehAC di website tersebut.
+download pdf hasil isian eHAC di website tersebut.
 
 ** Tempat Karantina
 
