@@ -1,6 +1,8 @@
 #+STARTUP: overview
 #+TITLE: Perjalanan Pulang Jerman-Indo Tanggal 26 Juni 2021
 
+Jakarta, 29 Juni 2021 - Yohan Fajar Sidik
+
 * Bagian 1 - Dokumen yang dibutuhkan
   
 Dalam situasi pandemi corona seperti sekarang ini, berikut ini adalah dokumen
@@ -16,13 +18,13 @@ yang dibutuhkan untuk melakukan perjalanan dari Jerman ke Indonesia.
 
 Saat ini tempat tes PCR dapat dengan mudah ditemukan di banyak tempat
 di Jerman.  Di tempat saya tinggal di Aachen, tempat tes PCR misalnya
-bisa dilakukan di Medicare. Total biaya adalah 90 Euro. Berdasarkan
+bisa dilakukan di [[https://aachentest.de][Medicare]]. Total biaya adalah 90 Euro. Berdasarkan
 info dari website-nya, biaya tersebut terdiri dari biaya booking
 sebesar 31.62 Euro yang dibayar di tempat tes. Sedangkan biaya sisanya
 adalah biaya lab yang akan ditagih dalam bentuk invoice dan akan
 dikirim ke rumah masing-masing pengambil tes.
 
-Tes PCR yang lebih murah dapat dilakukan di EcoCare di bandara
+Tes PCR yang lebih murah dapat dilakukan di [[https://flughafen-duesseldorf.ecocare.center/en/][EcoCare]] di bandara
 Düsseldorf.  Biaya paling murah adalah 59 Euro untuk hasil dalam waktu
 24 jam. Sedangkan biaya paling mahal adalah 149 Euro untuk hasil dalam
 waktu 1 jam.  Biaya tes pun dapat dibayar di tempat. Ini memudahkan
