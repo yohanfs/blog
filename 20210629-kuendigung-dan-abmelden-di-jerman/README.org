@@ -1,0 +1,51 @@
+#+STARTUP: overview
+#+TITLE: Kündigung dan Abmelden di Jerman
+
+Jakarta, 29 Juni 2021 - Yohan Fajar Sidik
+
+Ada beberapa hal yang harus dilakukan ketika akan pulang habis dari Jerman.
+Berikut ini adalah beberapa hal tersebut:
+
+* Kündigung 
+
+** Berhenti Langganan Internet
+
+ Internet provider yang saya gunakan adalah Vodafone. Untuk berhenti
+ langganan bisa dengan mengisi formulir di website Vodafone.
+
+** Berhenti Langganan Listrik dan Gas
+
+ Kami langganan listrik dan gas dari Stawag. Cara termudah untuk berhenti
+ langganan adalah dengan mendatangi kantor Stawag. Petugas akan bertanya
+ perihal waktu penyerahan kunci rumah ke Vermieter (landlord). Kemudian,
+ petugas juga meminta agar pada hari penyerahan kunci tersebut,
+ meteran listrik dan gas dibaca dan dikirimkan ke Stawag.
+
+ Dalam pelaksanaannya, beberapa hari setelah kedatangan ke Stawag, akan
+ ada surat tentang tata cara pembacaan meteran listrik dan gas beserta juga
+ tata cara pelaporan pembacaan meteran tersebut. 
+
+** Tutup akun bank
+
+ Akun bank yang saya gunakan adalah Sparkasse. Akun bank Sparkasse dapat
+ ditutup di bank cabang Sparkasse terdekat. Dokumen yang perlu dibawa adalah
+
+ - paspor
+ - kartu debit
+ - kartu kredit (jika ada)
+
+ Sebaiknya akun bank ditutup 1-2 minggu sebelum pulang habis.
+ Ini diperlukan agar bank bisa mengirimkan surat konfirmasi penutupan bank
+ ke alamat rumah kita. Apabila tidak memungkinkan, akun bank bisa juga
+ ditutup mepet dengan hari kepulangan kita. Petugas bank nanti akan
+ meminta alamat teman kita agar surat konfirmasi tersebut dapat dikirimkan
+ ke alamat teman.
+
+
+* Abmelden ke Stadt
+
+Ketika pertama kali datang ke Jerman, kita perlu anmelden ke Stadt.
+Sedangkan apabila meninggalkan Jerman, maka perlu melakukan abmelden.
+Pada situasi corona seperti sekarang ini, diperlukan termin untuk
+melakukan abmelden. Sebaiknya, termin diurus H-1 bulan sebelum kepulangan
+ke Indonesia agar masih mendapatkan slot. 
