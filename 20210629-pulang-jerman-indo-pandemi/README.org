@@ -114,3 +114,24 @@ Itulah pengalaman kami melakukan perjalanan dari Jerman ke
 Indonesia. Mulai dari persiapan keberangkatan dan sampai dengan tempat
 karantina di hotel.
 
+* Bagian 3 - Daftar IMEI HP
+
+Apabila HP dibeli di luar negeri, maka IMEI HP perlu didaftarkan ke
+bea cukai di bandara CGK di terminal 3.
+
+Dokumen yang perlu dipersiapkan adalah:
+
+- surat keterangan selesai karantina
+- paspor
+- boarding pass
+- barcode
+
+Barcode diperoleh setelah mengisi formulir pendaftaran IMEI melalui:
+
+- [[https://www.beacukai.go.id/register-imei.html][Website bea cukai]]
+- Aplikasi bea cukai
+
+Pembebasan pajak bisa diperoleh apabila jumlah barang setiap penumpang
+tidak lebih dari 500 USD. Jadi, apabila anda merupakan penumpang
+keluarga (minimal suami dan istri), maka daftarkanlah IMEI HP tersebut
+masing-masing agar harga barang tersebut tidak melebihi 500 USD.
