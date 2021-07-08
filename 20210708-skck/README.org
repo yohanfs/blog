@@ -1,0 +1,29 @@
+#+STARTUP: overview
+#+TITLE: SKCK
+
+SKCK adalah surat keterangan catatan kepolisian. Biasanya diperlukan untuk melamar
+pekerjaan. SKCK ini berlaku selama 6 bulan dari pengajuan. Berikut ini adalah
+syarat yang diperlukan untuk:
+
+#+attr_html: :width 400px
+[[./skck.jpeg]]
+
+
+* Permohonan Baru
+
+1. Fotokopi KTP
+2. Fotokopi KK
+3. Fotokopi akte kelahiran
+4. Sidik Jari
+5. Isi formulir pendaftaran
+6. Pas foto ukuran 4x6 (4 lembar, latar warna merah)
+
+* Permohonan Perpanjang
+
+1. SKCK lama lampiran
+2. Fotokopi KTP
+3. Fotokopi KK
+4. Fotokopi akte kelahiran
+5. Pas foto ukuran 4x6 (3 lembar, latar warna merah)
+
+
