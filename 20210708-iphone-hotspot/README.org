@@ -1,0 +1,8 @@
+#+STARTUP: overview
+#+TITLE: Hotspot Iphone
+
+Menu personal hotspot iphone ternyata bergantung pada penyedia layanan
+seluler.  Untuk Telkomsel, menu tersebut dapat diaktifkan dengan cara
+mengisi APN dengan kata "internet". APN dapat ditemukan di:
+
+Settings >> Mobile Data >> Mobile Data Network >> Personal Hotspot >> APN
