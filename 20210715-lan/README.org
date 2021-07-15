@@ -10,16 +10,20 @@ yang sama, misalnya antara 2 komputer. Cara membuat 2 koneksi tersebut adalah:
 
 [[./figures/crossover.png]]
 
-Jika menggunakan crossover cable, aturlah IP address beserta dengan gateway-nya.
-Misalnya:
+Jika menggunakan crossover cable, aturlah IP address berikut:
 
 - IP address: 192.168.0.1
 - Subnet mask: 255.255.255.0
 - Default gateway: 192.168.0.1
 - DNS server: 192.168.0.1
 
+Berikut ini adalah cara pengaturan IP address:
+
+- Windows 10
 
 [[./figures/ip-windows.png]]
+
+- Ubuntu
 
 [[./figures/ip-ubuntu.png]]
 
