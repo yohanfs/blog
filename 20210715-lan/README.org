@@ -1,0 +1,29 @@
+#+STARTUP: overview
+#+TITLE: LAN
+
+Ada 2 tipe wiring kabel LAN, yaitu straight dan crossover cable.
+Straight cable untuk koneksi antar 2 device yang berbeda, misalnya
+antara komputer dan router. Sedangkan crossover cable untuk 2 device
+yang sama, misalnya antara 2 komputer. Cara membuat 2 koneksi tersebut adalah:
+
+[[./figures/straight.png]]
+
+[[./figures/crossover.png]]
+
+Jika menggunakan crossover cable, aturlah IP address beserta dengan gateway-nya.
+Misalnya:
+
+- IP address: 192.168.0.1
+- Subnet mask: 255.255.255.0
+- Default gateway: 192.168.0.1
+- DNS server: 192.168.0.1
+
+
+[[./figures/ip-windows.png]]
+
+[[./figures/ip-ubuntu.png]]
+
+
+Sumber:
+
+[[https://www.cables-solutions.com/difference-between-straight-through-and-crossover-cable.html][cables-solutions]]
