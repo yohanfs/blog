@@ -1,0 +1,6 @@
+#+STARTUP: overview
+
+Blog yang dikelola oleh Yohan Sidik. 
+
+
+
