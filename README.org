@@ -2,5 +2,9 @@
 
 Blog yang dikelola oleh Yohan Sidik. 
 
+Post baru bisa dibuat dengan cara membuka terminal kemudian jalankan perintah:
+
+: post new-title
+
 
 
