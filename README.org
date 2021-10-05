@@ -4,7 +4,15 @@ Blog yang dikelola oleh Yohan Sidik.
 
 Post baru bisa dibuat dengan cara membuka terminal kemudian jalankan perintah:
 
-: post new-title
+#+begin_src 
+post 
+#+end_src
+
+Daftar post disimpan di blog.org. File blog.org dapat dibuat dengan menjalankan:
+
+#+begin_src 
+list
+#+end_src
 
 
 
