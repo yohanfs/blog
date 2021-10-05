@@ -1,8 +1,14 @@
 #+title: blog Yohan
  
 [[./20210629-keluar-rumah-jerman/README.org][20210629-keluar-rumah-jerman]]
+ 
 [[./20210629-kuendigung-dan-abmelden-di-jerman/README.org][20210629-kuendigung-dan-abmelden-di-jerman]]
+ 
 [[./20210629-pulang-jerman-indo-pandemi/README.org][20210629-pulang-jerman-indo-pandemi]]
+ 
 [[./20210708-iphone-hotspot/README.org][20210708-iphone-hotspot]]
+ 
 [[./20210708-skck/README.org][20210708-skck]]
+ 
 [[./20210715-lan/README.org][20210715-lan]]
+ 
