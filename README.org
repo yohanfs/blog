@@ -14,5 +14,5 @@ Daftar post disimpan di blog.org. File blog.org dapat dibuat dengan menjalankan:
 list
 #+end_src
 
-
+Klik [[./blog.org][BLOG]] untuk menuju ke daftar post. 
 
