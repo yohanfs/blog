@@ -1,4 +1,4 @@
-#+title: blog Yohan
+#+title: Blog Yohan
  
 [[./20210629-keluar-rumah-jerman/README.org][20210629-keluar-rumah-jerman]]
  
